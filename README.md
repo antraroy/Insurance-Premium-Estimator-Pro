@@ -2,7 +2,7 @@
 
 An interactive Machine Learning web application that predicts health insurance premiums based on customer information. It provides model comparisons, prediction insights, what-if analysis, and long-term premium projections.
 
-🚀 **Live Demo:** [Try the App](PASTE_YOUR_STREAMLIT_LINK_HERE)
+🚀 **Live Demo:https://climateriskpridection-ytsrjyug4nkwagevc3cemk.streamlit.app/
 
 ## ✨ Features
 
@@ -33,5 +33,4 @@ The objective of this project is to use Machine Learning to estimate health insu
 
 Clone this repository:
 
-```bash
-git clone https://github.com/antrayroy/Insurance-Premium-Estimator-Pro.git
+https://climateriskpridection-ytsrjyug4nkwagevc3cemk.streamlit.app/
